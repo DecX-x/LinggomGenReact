@@ -1,3 +1,3 @@
-const Api = "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";
+const Api = "HUGGINGFACE_APIKEY";
 
 export default Api;
