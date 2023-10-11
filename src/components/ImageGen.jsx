@@ -5,7 +5,7 @@ import DesignPreview from "./DesignPreview";
 import OutputPreview from "./OutputPreview"; // Import the OutputPreview component
 
 
-const API_TOKEN = "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";
+const API_TOKEN = "HUGGINGFACE_APIKEY";
 
 const ImageGenerationForm = () => {
   const [loading, setLoading] = useState(false);
